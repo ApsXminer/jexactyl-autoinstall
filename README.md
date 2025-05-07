@@ -17,11 +17,11 @@ This script automates the installation of **Jexactyl**, a frontend panel for **P
 
 ### 1. **Run the Installer Script**
 
-** For Ubuntu**
+**For Ubuntu**
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/ApsXminer/jexactyl-autoinstall/main/install.sh)
 ````
-** For Debian **
+ **For Debian** 
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/ApsXminer/jexactyl-autoinstall/main/debian-install.sh)
